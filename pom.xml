@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-hint</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <name>Angular Hint</name>
     <description>WebJar for Angular Hint</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-hint</url>
         <connection>scm:git:https://github.com/webjars/angular-hint.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-hint.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-hint-0.1.0</tag>
     </scm>
     
     <dependencies>
